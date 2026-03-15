@@ -7,12 +7,11 @@ h2 {
 }
 
 
-p {
+ol {
     font-family: monospace;
     font-size: 22px;
     font-weight: 500;
 }
-
 
 button {
     font-family: Arial;
@@ -23,4 +22,10 @@ button {
     border-radius: 5px;
     background-color: green;
     color: white;
+}
+
+ul {
+    font-family: monospace;
+    font-size: 22px;
+    font-weight: 500;
 }
