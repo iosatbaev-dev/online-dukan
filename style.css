@@ -1,31 +1,13 @@
-
-h2 {
-    font-family: Arial;
-    font-size: 28px;
-    font-weight: 700;
-    text-align: center;
+.selected {
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-right: 8px;
+    padding: 0px 8px;
 }
 
-
-ol {
-    font-family: monospace;
-    font-size: 22px;
-    font-weight: 500;
-}
-
-button {
-    font-family: Arial;
-    font-size: 18px;
-    font-weight: 500;
-    padding: 7px 18px;
-    border: none;
-    border-radius: 5px;
-    background-color: green;
-    color: white;
-}
-
-ul {
-    font-family: monospace;
-    font-size: 22px;
-    font-weight: 500;
+.sebet {
+    font-family: sans-serif;
+    font-size: 14px;
+    margin-right: 8px;
+    padding: 0px 8px;
 }
