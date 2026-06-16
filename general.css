@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+}
+
+.product-box{
+    width: 300px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+.product-img{
+    width: 300px;
+}
+
+.product-price{
+    font-weight: 700;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.product-name{
+    font-size: 14px;
+    margin-top: 10px;
+    margin-bottom: 30px
+}
+
+.product-ball{
+    color: gray;
+    margin-bottom: 10px;
+}
+
+.product-btn{
+    border: none;
+    border-radius: 5px;
+    width: 290px;
+    height: 40px;
+    background-color: rgb(108, 36, 175);
+    color: white;
+    cursor: pointer;
+}
+
+.fa-regular{
+    position: absolute;
+    top: 20px;
+    left: 280px;
+    border-radius: 50%;
+}
